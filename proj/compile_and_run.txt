@@ -1,0 +1,1 @@
+vcom -reportprogress 300 -work work C:/FitkitSVN/proj/proj/uart_fsm.vhd; vcom -reportprogress 300 -work work C:/FitkitSVN/proj/proj/uart.vhd; do uart.fdo
